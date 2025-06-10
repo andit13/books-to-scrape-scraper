@@ -46,6 +46,5 @@ To get a local copy up and running, follow these simple steps.
 
 ## Contact
 
-* **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Telegram:** [@your_telegram_username](https://t.me/your_telegram_username)
+* **Email:** and.od.it13@gmail.com
+
